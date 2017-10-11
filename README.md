@@ -1,1 +1,1 @@
-# Prolog_Aliens_Person
+Prolog homework problem.
